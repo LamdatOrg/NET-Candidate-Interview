@@ -2,9 +2,9 @@
 
 Hi
 
-Below is an exersize to examain your knowledge in c#.
+Below is an exercise to examine your knowledge in c#.
 
-Clone this Repo and create a fork or zip your code and send it to aharon@lamdat.com.
+zip your code and send it to aharon@lamdat.com.
 
 Good Luck
 
