@@ -10,9 +10,11 @@ The code in this repository is partiality ready and should export workitems (ent
 
 The expected output file result should be like this:
 
-ID,                            URL                                                                                                                                     , Length
+ID,                            URL,                                                        Length
+                                                    
 938125 https://../SyncNowCollection/Lamdat-Unified/_workitems/938125                               	  xxxx	
-938126 https://../SyncNowCollection/Lamdat-Unified/_workitems/938126                                        yyy
+
+938126 https://../SyncNowCollection/Lamdat-Unified/_workitems/938126                                  yyy
 
 Check all TODO remarks in the code and fill in the missing code
 
